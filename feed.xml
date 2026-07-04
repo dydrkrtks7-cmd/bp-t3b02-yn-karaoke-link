@@ -1,48 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[가라오케]]></title>
-  <link>https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link</link>
-  <description><![CDATA[가라오케 - 연남 가라오케 링크 관련 최신 소식 및 가이드]]></description>
-  <language>ko</language>
-  <pubDate>Wed, 10 Jun 2026 20:59:14 GMT</pubDate>
-  <lastBuildDate>Wed, 10 Jun 2026 20:59:14 GMT</lastBuildDate>
-  <atom:link href="https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[연남 연남 가라오케 링크]]></title>
+  <link>https://t3b02-yn-karaoke-link.pages.dev</link>
+  <description><![CDATA[연남 가라오케 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+  <language>ko-KR</language>
+  <pubDate>Thu, 28 May 2026 14:10:17 GMT</pubDate>
+  <lastBuildDate>Thu, 28 May 2026 14:10:17 GMT</lastBuildDate>
+  <atom:link href="https://t3b02-yn-karaoke-link.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[연남 가라오케 링크 현장에서 놓치기 쉬운 포인트를 기록해봤다]]></title>
-      <link>https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/field_note-002-68yelh.html</link>
-      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/field_note-002-68yelh.html</guid>
-      <description><![CDATA[아, 진짜... 2023년 겨울, 서버실 온도가 42도까지 치솟았어요. 데이터 과학자로서 그 시점은 MK울트라 프로젝트의 한 사건이었죠. 데이터 과학자의 관점을 중심으로 보면, MK울트라는 CIA 비밀 프로젝트였습니다. 이는 음모론과 사실 사이에서 분岐됩니다. 학습 데]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[2003년 파리 덩크 vs 2021년 레트로, 그 미묘한 차이점을 짚어주지]]></title>
-      <link>https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/guide-003.html</link>
-      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/guide-003.html</guid>
-      <description><![CDATA[2003년 나이키 SB 덩크 로우 '파리'와 2021년 레트로판. 겉보기엔 똑같아 보여도, 이걸 좀 안다는 놈들은 미묘한 차이에 목숨 건다. 특히 스티치 밀도랑 박스지 재질. 이거 모르면 진짜 ‘신발 좀 안다’ 소리 듣기 힘들지. ## 스티치 밀도, 촘촘함의 미학 솔직]]></description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[연남 가라오케 링크 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
-      <link>https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/review-001-68yelh.html</link>
-      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/review-001-68yelh.html</guid>
-      <description><![CDATA[### 포스트 DNA 1bd07a49 제목: 창작한 제목: "스니커즈 커스텀 작가의 나이키 SB Dunk Low 맥락 분석: 박스 훼손은 리셀 가치 폭락" 아, 진짜... 나이키 SB Dunk Low 2003년판과 2021년 레트로판 스티치 밀도와 박스지 재질이 큰 차]]></description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[박스 태그 하나에 울고 웃는 커스터마이저의 연남동 밤]]></title>
-      <link>https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/review-001.html</link>
-      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/review-001.html</guid>
-      <description><![CDATA[잘 몰라서 그런데, 아식스 젤 카야노 14 OG 아이보리 2023 년 리스탁 버전의 인솔 로고 프린트 미세 차이가 박스 상태보다 리셀가를 좌우한다는 거 알고 계셨나요? 보통 사람들은 신발 가죽 결이나 미드솔 황변만 체크하죠. 하지만 진짜 매니아들은 인솔 뒤축에 찍힌 ']]></description>
-      <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[야, 너도 MK울트라 썰 풀 줄 알아?]]></title>
-      <link>https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/review-002.html</link>
-      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-t3b02-yn-karaoke-link/posts/review-002.html</guid>
-      <description><![CDATA[아, 그 1972년 청문회 말이지. 뭐, 나도 그때 현장에 있었던 건 아니고, 자료 뒤적이다가 '어라?' 싶은 게 있어서 파봤지. 다들 겉핥기 식으로 'MK울트라' 하면 떠오르는 몇 가지에만 집중하는데, 진짜 꿀잼은 숨겨진 코드명들이랑 그거 왜 그랬는지 뉘앙스 파악하는]]></description>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <title><![CDATA[연남 연남 가라오케 링크 - 공식 홈페이지 오픈 안내]]></title>
+      <link>https://t3b02-yn-karaoke-link.pages.dev/</link>
+      <guid isPermaLink="true">https://t3b02-yn-karaoke-link.pages.dev/</guid>
+      <description><![CDATA[연남 가라오케 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
+      <pubDate>Thu, 28 May 2026 14:10:17 GMT</pubDate>
     </item>
 </channel>
 </rss>
